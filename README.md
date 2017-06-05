@@ -5,4 +5,4 @@ The diverse media used to tell the Bionicle hinders its accessibility. Important
 
 This project aims to create a single document containing all important story elements in Bionicle. A full transcription of every novel is currently being written as a starting point. When the transcription is finished, the books will be merged together and with story portions told through other media.
 
-In the meantime, read up at <a href="http://biosector01.com">the Bionicle fan wiki.</a>.
+In the meantime, read up at <a href="http://biosector01.com">the Bionicle fan wiki</a> or <a href="http://biomediaproject.com/bmp/">the BioMedia Project</a>.
