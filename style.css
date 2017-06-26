@@ -1,0 +1,44 @@
+p {
+	white-space: pre-wrap;
+}
+button {
+	width: 12%;
+	height: 3%;
+	border: none;
+	position: fixed;
+	top: 0;
+	right: 0;
+	background-color: #eee;
+	cursor: pointer;
+}
+button:hover, a:hover {
+	background-color: #777;
+	color: #eee;
+}
+nav {
+	width: 12%;
+	height: 97%;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	background-color: #eee;
+	text-align:center;
+}
+nav h3 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.center, h1, h2, h3 {
+	text-align: center;
+}
+img {
+	width: 100%;
+}
+div {
+	margin-right: 12%;
+}
+a {
+	display: block;
+	text-decoration: none;
+	color: black;
+}
