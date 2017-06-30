@@ -43,6 +43,7 @@ img {
 }
 div {
 	margin-right: 230px;
+	margin-bottom: 300px;
 }
 a {
 	display: block;
@@ -53,10 +54,7 @@ p, a, button {
 	font-family: "Lato";
 }
 @media print {
-	button {
-		display: none;
-	}
-	nav {
+	button, nav {
 		display: none;
 	}
 	div {
