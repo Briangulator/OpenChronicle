@@ -1,0 +1,59 @@
+<!--
+	OpenChronicle:
+	cover.html
+	
+	Provides a cover and section start pages for any printed copies of the OpenChronicle.
+-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href='https://fonts.googleapis.com/css?family=Cinzel' rel='stylesheet'>
+		<style>
+			button {
+				width: 20%;
+				border: none;
+				background-color: #eee;
+				cursor: pointer;
+				font-size: 16px;
+				padding: 0px;
+			}
+			button:hover {
+				background-color: #777;
+				color: #eee;
+			}
+			img {
+				max-width: 100%;
+				height: auto;
+			}
+			h1 {
+				text-align: center;
+				font-family: "Cinzel";
+			}
+			@media print {
+				button {
+					display: none;
+				}
+			}
+		</style>
+		<script>
+			var titles = ["", "Part 1: Saviors", "Part 2: Cataclysm", "Part 3: Ignition", "Part 4: Destiny"];
+			var images = ["http://biosector01.com/wiki/images/e/e8/BIONICLE_Logo_01.png", "http://biosector01.com/wiki/images/3/35/Takanuva_T.png", "http://biosector01.com/wiki/images/3/3d/Makuta_M.png", "http://biosector01.com/wiki/images/f/f9/Takutanuva_Promotional_Symbol.png", "http://biosector01.com/wiki/images/9/99/Symbol_Tribe_Rock.png"];
+			function change(which) {
+				document.getElementsByTagName("h1")[0].innerHTML = titles[which];
+				document.getElementsByTagName("img")[0].src = images[which];
+			}
+		</script>
+	</head>
+	<body>
+		<button onclick="change(0)">Cover</button><button onclick="change(1)">Part 1</button><button onclick="change(2)">Part 2</button><button onclick="change(3)">Part 3</button><button onclick="change(4)">Part 4</button>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<h1></h1>
+		<br>
+		<br>
+		<h1><img src="http://biosector01.com/wiki/images/e/e8/BIONICLE_Logo_01.png" alt=""></h1>
+	</body>
+</html>
