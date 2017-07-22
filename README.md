@@ -14,6 +14,7 @@ This branch contains updates to the genders of BIONICLE characters. They will re
  - Kalmah
  - Kualus
  - Lewa
+ - Macku
  - Matoro
  - Nuhrii
  - Nuparu
