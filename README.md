@@ -5,14 +5,13 @@ This branch contains updates to the genders of BIONICLE characters. They will re
  - Artakha
  - Avak
  - Balta
- - Brutaka
  - Dume
  - Ehlek
  - Gaaki
- - Idris
  - Ignika (copies gender of Matoro)
  - Kalmah
  - Kualus
+ - Kyrehx
  - Lewa
  - Macku
  - Matoro
@@ -24,5 +23,4 @@ This branch contains updates to the genders of BIONICLE characters. They will re
  - Photok
  - Pouks
  - Reidak
- - Sarda
  - Wairuha (most common gender between Lewa, Kopaka, and Gali)
