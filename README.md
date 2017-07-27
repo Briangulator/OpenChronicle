@@ -5,7 +5,6 @@ This branch contains updates to the genders of BIONICLE characters. They will re
  - Artakha
  - Avak
  - Balta
- - Dume
  - Ehlek
  - Gaaki
  - Ignika (copies gender of Matoro)
