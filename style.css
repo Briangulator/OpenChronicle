@@ -4,6 +4,8 @@
  * 
  * Styles page elements and ensures correct layout when printing.
  */
+@import url("https://fonts.googleapis.com/css?family=Cinzel");
+@import url("https://fonts.googleapis.com/css?family=Lato");
 p {
 	white-space: pre-wrap;
 	margin: 0px;
