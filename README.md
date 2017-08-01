@@ -14,4 +14,4 @@ This project aims to streamline and improve the story of BIONICLE, with these go
 
 - Rewrite some characters as the other gender. Original BIONICLE canon suffered from a lack of female characters.
 
-- Correct questionable design decisions, such as the fact that Vakama was the leader of the Toa Metru.
+- Correct bad design decisions originally necessary for marketing purposes.
