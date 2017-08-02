@@ -4,8 +4,7 @@
  * 
  * Styles page elements and ensures correct layout when printing.
  */
-@import url("https://fonts.googleapis.com/css?family=Cinzel");
-@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url(http://allfont.net/allfont.css?fonts=goudy-trajan-regular);
 p {
 	white-space: pre-wrap;
 	margin: 0px;
@@ -19,7 +18,6 @@ button {
 	right: 0;
 	background-color: #eee;
 	cursor: pointer;
-	font-size: 20px;
 }
 button:hover, a:hover {
 	background-color: #777;
@@ -40,7 +38,7 @@ nav h3 {
 }
 h1, h2, h3 {
 	text-align: center;
-	font-family: "Cinzel";
+	font-family: "Goudy Trajan Regular";
 }
 .center {
 	margin: 16px;
@@ -59,7 +57,8 @@ a {
 	color: black;
 }
 p, a, button {
-	font-family: "Lato";
+	font-family: "Gill Sans", "Gill Sans MT";
+	font-size: 19px;
 }
 @media print {
 	button, nav {
@@ -68,10 +67,10 @@ p, a, button {
 	div {
 		margin: 0px;
 	}
-	/*#first {//TODO: Add "first" id to first H2 element on each page
+	#first {
 		page-break-before: avoid;
 	}
 	h2 {
 		page-break-before: always;
-	}*/
+	}
 }
