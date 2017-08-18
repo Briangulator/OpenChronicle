@@ -1,9 +1,3 @@
-/**
- * OpenChronicle:
- * style.css
- * 
- * Styles page elements and ensures correct layout when printing.
- */
 @import url(http://allfont.net/allfont.css?fonts=goudy-trajan-regular);
 p {
 	white-space: pre-wrap;

@@ -1,9 +1,3 @@
-/**
- * OpenChronicle:
- * script.js
- * 
- * Makes the navigation bar open/close button work.
- */
 window.onload = function() {
 	var isOpen = true,
 		button = document.getElementsByTagName("button")[0],
