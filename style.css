@@ -58,7 +58,7 @@ p, a, button {
 	font-family: "Gill Sans MT";
 }
 @media print {
-	button, nav {
+	button, nav, audio {
 		display: none;
 	}
 	div {
