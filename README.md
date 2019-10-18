@@ -1,5 +1,5 @@
 # OpenChronicle
-In the time before time (2001), Lego launched an extremely popular toy line named "BIONICLE", short for "Biological Chronicle". The line would continue until 2010. Books, comics, video games, and movies were made to tie in to the line, which provided a rich story with the heroic Toa at the center.
+In the time before time (2001), Lego launched a toy line named "BIONICLE", short for "Biological Chronicle". The line would continue until 2010. Books, comics, video games, and movies were made to tie in to the line, which provided a rich story with the heroic Toa at the center.
 For more information on BIONICLE, visit [the BIONICLE fan wiki](http://biosector01.com) or [the BioMedia Project](http://biomediaproject.com/bmp/).
 
 This project aims to streamline and improve the story of BIONICLE, with these goals in mind:
