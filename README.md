@@ -12,6 +12,6 @@ This project aims to streamline and improve the story of BIONICLE, with these go
 
 - Adapt to text and add story told through non-book media, for example adding the [Boxors](http://biosector01.com/wiki/index.php/Boxor) to *Beware the Bohrok*.
 
-- Rewrite some characters as the other gender. Original BIONICLE canon suffered from a lack of female characters.
+- Allow gendered language to be customized, as the original characters were designed to be "boy's toys".
 
 - Correct bad design decisions originally necessary for marketing purposes.
